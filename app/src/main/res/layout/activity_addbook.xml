@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    tools:context="kr.hs.e_mirim.bomi0324.dongwhapiece.AddbookActivity"
+    android:layout_marginTop="50dp"
+    >
+
+    <TextView
+        android:id="@+id/wantText"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="보고싶으신 책의 제목을 입력하세요!"
+        android:gravity="center"/>
+
+    <EditText
+        android:id="@+id/wantBook"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:background="@drawable/bt_pink"
+        android:layout_gravity="center"
+        android:text="신청" />
+</LinearLayout>

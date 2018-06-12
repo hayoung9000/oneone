@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.1.0_1c741cc91543fb478a6c8240eff37246bb86fc35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-11.2.0_b14d98d104dc2a1353ad1585c1da8fe5cc189c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-api-phone-11.2.0_335a0e28f0e5add01491f69a6b0bed69c8f5ed48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_36342a2286cbf494da78bbd7a57f5880586f8f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_61bbd86ccbf131200a17d92dafdd701b6f94462b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.2.0_61130fc2e61d5c16725d8e4530e18f28f109b47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_4f0f591a17c014a1fbad9f1be9e9c2d2c2d86c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.2.0_b86e2e8c2571fc5daf769b01ee620e8af78dc368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.2.0_3ef6d335e63b2a22fce091086437e43b20a81156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_a233b93a4383bf013cbc5b3f806bfcd596937fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.1.0_6f72e89d2593310a465f4c26e51af0265902354d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\common-1.0.0_30fcd2d52c272a6bd7355bb50d0f182d68b69a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.1.0_a633a884130a8ed1f13ee526d4aca06044efe612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-11.2.0_96d0bd3bea55240987597c1653375cc32bdc4d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.2.0_afff3ce40116e780e96dc02cb4ace0f275b8c7da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.2.0_0ac167a5f3d926e628d963cf55ecc691deff844f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.1.0_566c6497ad8fb71422ba66e46165c99b5ba70f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.2.0_231e74ef6bde3a9ad806ba4604c965b02a8c3627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_287700315cd7928d8415c0b2962b5942965c967a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_5ce118882267d63d2f674d4d161ee8027159bd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_73b3591cc2c2639dd8132247419ca77db9cf4196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_8ca96ccf67ced63622012749ffdc04879e24b850.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_5dc2f3ca7be2a80e957bbaa356c1dca775326584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\common-1.0.0_e330dc04cff015d532c3a7b7b50b7ed2766f63c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.2.0_3d539618f8e48260f75ad48d70ca45953c869bcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.1.0_b93de5aed5c7b65dc56bde26b5db727146c762e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_e2848714d73ac18f3e458269075630004fcfe6e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.2.0_3185511f27cd2f59de9358ff3b092ef2993e3183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\exploded-aar\com.android.support\transition\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.1.0_94e9f6593ad63b53dab84e31ddc1d5a0bdc3eba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbwlt\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\dbwlt\Desktop\DongwhaPiece\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_454e04bfd9bc00e46a6f3ff1c309e8ce79f0d0e7.jar" />
+    </item>
+
+</items>

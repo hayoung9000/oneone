@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#f8f0ff"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn1"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/al" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tv1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 알사탕" />
+
+                    <TextView
+                        android:id="@+id/tv2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 백희나" />
+
+                    <TextView
+                        android:id="@+id/tv3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 책 읽는 곰" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/btn2"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/estart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:layout_weight="31"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 이어도에서 온 선물" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 권요원" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 한우리 문학" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn3"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/umstart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 엄마의 말" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 최숙희" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 책 읽는 곰" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn4"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/jistart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 지난 여름" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 김지현" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 웅진 주니어" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/btn5"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/fstart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:layout_weight="31"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 펭귄은 너무해" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 조리 존" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 미디어 창비" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/btn6"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/ahstart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:layout_weight="31"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 엄마는 해녀입니다." />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 고희영" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 난다" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/btn7"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/halstart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:layout_weight="31"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 할머니 어디계세요?" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 에드먼드 림" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 다섯수레" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/btn8"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/hangstart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:layout_weight="31"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 행복한 청소부" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 모니카 페트" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 풀빛" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/btn9"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/wostart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:layout_weight="31"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 우리는 언제나 다시만나" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 윤여림" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 스콜라" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="308dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155px"
+                android:layout_marginTop="40px"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/btn10"
+                    android:layout_width="80dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/julstart" />
+
+                <LinearLayout
+                    android:layout_width="470px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="50px"
+                    android:layout_weight="31"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="책 제목 : 줄무늬가 생겼어요" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="저자 : 데이빗 섀논" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="9dp"
+                        android:text="출판사 : 비룡소" />
+                    />
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>
